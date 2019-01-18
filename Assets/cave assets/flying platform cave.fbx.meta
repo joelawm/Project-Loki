@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: 6a2f687d59f64fe49a803324d010b4d8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: booster1_down
+    100002: booster2_down
+    100004: booster3_down
+    100006: booster_down
+    100008: booster_side1
+    100010: booster_side2
+    100012: booster_side3
+    100014: booster_side4
+    100016: boosters_hori
+    100018: boosters_ver
+    100020: //RootNode
+    100022: flying_platform_booster_main_mesh_down
+    100024: flying_platform_booster_main_mesh_down 1
+    100026: flying_platform_booster_main_mesh_down 2
+    100028: flying_platform_booster_main_mesh_down 3
+    100030: flying_platform_booster_main_mesh_side
+    100032: flying_platform_booster_main_mesh_side 1
+    100034: flying_platform_booster_main_mesh_side 2
+    100036: flying_platform_booster_main_mesh_side 3
+    100038: flying_platform_booster_ring_mesh_down
+    100040: flying_platform_booster_ring_mesh_down 1
+    100042: flying_platform_booster_ring_mesh_down 2
+    100044: flying_platform_booster_ring_mesh_down 3
+    100046: flying_platform_booster_ring_mesh_side
+    100048: flying_platform_booster_ring_mesh_side 1
+    100050: flying_platform_booster_ring_mesh_side 2
+    100052: flying_platform_booster_ring_mesh_side 3
+    100054: flying_platform_dark_mesh_down
+    100056: flying_platform_dark_mesh_down 1
+    100058: flying_platform_dark_mesh_down 2
+    100060: flying_platform_dark_mesh_down 3
+    100062: flying_platform_dark_mesh_side
+    100064: flying_platform_dark_mesh_side 1
+    100066: flying_platform_dark_mesh_side 2
+    100068: flying_platform_dark_mesh_side 3
+    100070: platform_light_mesh
+    100072: platform_mesh
+    100074: platform_mesh_main
+    400000: booster1_down
+    400002: booster2_down
+    400004: booster3_down
+    400006: booster_down
+    400008: booster_side1
+    400010: booster_side2
+    400012: booster_side3
+    400014: booster_side4
+    400016: boosters_hori
+    400018: boosters_ver
+    400020: //RootNode
+    400022: flying_platform_booster_main_mesh_down
+    400024: flying_platform_booster_main_mesh_down 1
+    400026: flying_platform_booster_main_mesh_down 2
+    400028: flying_platform_booster_main_mesh_down 3
+    400030: flying_platform_booster_main_mesh_side
+    400032: flying_platform_booster_main_mesh_side 1
+    400034: flying_platform_booster_main_mesh_side 2
+    400036: flying_platform_booster_main_mesh_side 3
+    400038: flying_platform_booster_ring_mesh_down
+    400040: flying_platform_booster_ring_mesh_down 1
+    400042: flying_platform_booster_ring_mesh_down 2
+    400044: flying_platform_booster_ring_mesh_down 3
+    400046: flying_platform_booster_ring_mesh_side
+    400048: flying_platform_booster_ring_mesh_side 1
+    400050: flying_platform_booster_ring_mesh_side 2
+    400052: flying_platform_booster_ring_mesh_side 3
+    400054: flying_platform_dark_mesh_down
+    400056: flying_platform_dark_mesh_down 1
+    400058: flying_platform_dark_mesh_down 2
+    400060: flying_platform_dark_mesh_down 3
+    400062: flying_platform_dark_mesh_side
+    400064: flying_platform_dark_mesh_side 1
+    400066: flying_platform_dark_mesh_side 2
+    400068: flying_platform_dark_mesh_side 3
+    400070: platform_light_mesh
+    400072: platform_mesh
+    400074: platform_mesh_main
+    2100000: platform_mesh_mat
+    2100002: platform_light_mat
+    2100004: flying_platform_dark_mat
+    2100006: flying_platform_booster_main_mat
+    2100008: flying_platform_booster_ring_mat
+    2300000: flying_platform_booster_main_mesh_down
+    2300002: flying_platform_booster_main_mesh_down 1
+    2300004: flying_platform_booster_main_mesh_down 2
+    2300006: flying_platform_booster_main_mesh_down 3
+    2300008: flying_platform_booster_main_mesh_side
+    2300010: flying_platform_booster_main_mesh_side 1
+    2300012: flying_platform_booster_main_mesh_side 2
+    2300014: flying_platform_booster_main_mesh_side 3
+    2300016: flying_platform_booster_ring_mesh_down
+    2300018: flying_platform_booster_ring_mesh_down 1
+    2300020: flying_platform_booster_ring_mesh_down 2
+    2300022: flying_platform_booster_ring_mesh_down 3
+    2300024: flying_platform_booster_ring_mesh_side
+    2300026: flying_platform_booster_ring_mesh_side 1
+    2300028: flying_platform_booster_ring_mesh_side 2
+    2300030: flying_platform_booster_ring_mesh_side 3
+    2300032: flying_platform_dark_mesh_down
+    2300034: flying_platform_dark_mesh_down 1
+    2300036: flying_platform_dark_mesh_down 2
+    2300038: flying_platform_dark_mesh_down 3
+    2300040: flying_platform_dark_mesh_side
+    2300042: flying_platform_dark_mesh_side 1
+    2300044: flying_platform_dark_mesh_side 2
+    2300046: flying_platform_dark_mesh_side 3
+    2300048: platform_light_mesh
+    2300050: platform_mesh_main
+    3300000: flying_platform_booster_main_mesh_down
+    3300002: flying_platform_booster_main_mesh_down 1
+    3300004: flying_platform_booster_main_mesh_down 2
+    3300006: flying_platform_booster_main_mesh_down 3
+    3300008: flying_platform_booster_main_mesh_side
+    3300010: flying_platform_booster_main_mesh_side 1
+    3300012: flying_platform_booster_main_mesh_side 2
+    3300014: flying_platform_booster_main_mesh_side 3
+    3300016: flying_platform_booster_ring_mesh_down
+    3300018: flying_platform_booster_ring_mesh_down 1
+    3300020: flying_platform_booster_ring_mesh_down 2
+    3300022: flying_platform_booster_ring_mesh_down 3
+    3300024: flying_platform_booster_ring_mesh_side
+    3300026: flying_platform_booster_ring_mesh_side 1
+    3300028: flying_platform_booster_ring_mesh_side 2
+    3300030: flying_platform_booster_ring_mesh_side 3
+    3300032: flying_platform_dark_mesh_down
+    3300034: flying_platform_dark_mesh_down 1
+    3300036: flying_platform_dark_mesh_down 2
+    3300038: flying_platform_dark_mesh_down 3
+    3300040: flying_platform_dark_mesh_side
+    3300042: flying_platform_dark_mesh_side 1
+    3300044: flying_platform_dark_mesh_side 2
+    3300046: flying_platform_dark_mesh_side 3
+    3300048: platform_light_mesh
+    3300050: platform_mesh_main
+    4300000: platform_mesh_main
+    4300002: platform_light_mesh
+    4300004: flying_platform_dark_mesh_down
+    4300006: flying_platform_booster_main_mesh_down
+    4300008: flying_platform_booster_ring_mesh_down
+    4300010: flying_platform_dark_mesh_down
+    4300012: flying_platform_booster_main_mesh_down
+    4300014: flying_platform_booster_ring_mesh_down
+    4300016: flying_platform_dark_mesh_down
+    4300018: flying_platform_booster_main_mesh_down
+    4300020: flying_platform_booster_ring_mesh_down
+    4300022: flying_platform_dark_mesh_down
+    4300024: flying_platform_booster_main_mesh_down
+    4300026: flying_platform_booster_ring_mesh_down
+    4300028: flying_platform_dark_mesh_side
+    4300030: flying_platform_booster_main_mesh_side
+    4300032: flying_platform_booster_ring_mesh_side
+    4300034: flying_platform_dark_mesh_side
+    4300036: flying_platform_booster_main_mesh_side
+    4300038: flying_platform_booster_ring_mesh_side
+    4300040: flying_platform_dark_mesh_side
+    4300042: flying_platform_booster_main_mesh_side
+    4300044: flying_platform_booster_ring_mesh_side
+    4300046: flying_platform_dark_mesh_side
+    4300048: flying_platform_booster_main_mesh_side
+    4300050: flying_platform_booster_ring_mesh_side
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
